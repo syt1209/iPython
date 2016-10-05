@@ -1,1 +1,2 @@
 # command line csv manipulation
+paste -d, input1.csv input2.csv > combined.csv
